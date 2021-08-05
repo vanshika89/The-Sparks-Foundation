@@ -8,7 +8,7 @@ This repository contains Data Science internnship Tasks at [The Sparks Foundatio
 - **Internship Type** - Work from Home
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/       /The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vanshika89/The-Sparks-Foundation/blob/main/TASK%201%20-%20Linear%20Regression.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
