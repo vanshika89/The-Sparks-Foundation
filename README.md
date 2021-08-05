@@ -8,7 +8,7 @@ This repository contains the tasks I will complete during the Data Science inter
 - **Internship Duration** - 1 Month ( August-2021 )
 - **Internship Type** - Work from Home
 
-[<img align = right height = 50 width = 50 src = Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/       /The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
 
 
