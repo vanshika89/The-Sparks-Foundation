@@ -2,8 +2,7 @@
 
 #  The Sparks Foundation Tasks
 
-
-This repository contains the tasks I will complete during the Data Science internnship at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
+This repository contains Data Science internnship Tasks at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( August-2021 )
 - **Internship Type** - Work from Home
