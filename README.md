@@ -20,7 +20,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=b-uB6aYN1go)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vanshika89/The-Sparks-Foundation/blob/main/Task%202%20Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
